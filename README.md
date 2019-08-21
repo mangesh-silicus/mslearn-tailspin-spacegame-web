@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Tailspin15082019/Space%20Game%20-%20web/_apis/build/status/mangesh-silicus.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin15082019/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
